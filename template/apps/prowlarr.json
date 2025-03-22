@@ -20,8 +20,8 @@
 			"name": "TZ"
 		}
 	],
-	"image_arm64": "lscr.io/linuxserver/prowlarr:develop",
-	"image_amd64": "lscr.io/linuxserver/prowlarr:develop",
+	"image_arm64": "lscr.io/linuxserver/prowlarr:latest",
+	"image_amd64": "lscr.io/linuxserver/prowlarr:latest",
 	"logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/prowlarr-banner.png",
 	"name": "prowlarr",
 	"officialDoc": "https://hub.docker.com/r/linuxserver/prowlarr",
