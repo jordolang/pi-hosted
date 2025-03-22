@@ -7665,7 +7665,7 @@
 					"name": "TZ"
 				}
 			],
-			"image": "lscr.io/linuxserver/prowlarr:develop",
+			"image": "lscr.io/linuxserver/prowlarr:latest",
 			"logo": "https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/prowlarr-banner.png",
 			"name": "prowlarr",
 			"officialDoc": "https://hub.docker.com/r/linuxserver/prowlarr",
